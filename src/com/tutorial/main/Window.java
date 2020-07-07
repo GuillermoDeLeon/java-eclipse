@@ -20,6 +20,7 @@ public class Window extends Canvas {
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
 		frame.add(game);
+		//test
 	}
 
 }
